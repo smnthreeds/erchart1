@@ -87,7 +87,7 @@ class App extends React.Component {
     labels: this.state.timestamp,
     datasets: [
       {
-        label: 'Accumulative Gas Price',
+        label: 'Accumulative Gas Fees',
         fill: false,
         lineTension: 0.1,
         backgroundColor: 'orange',
